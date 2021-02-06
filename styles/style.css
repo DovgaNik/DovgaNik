@@ -1,5 +1,5 @@
 body{
-	background-color: #3F3F3F;
+	background: linear-gradient(45deg, #3A1C71, #D76D77, #FFAF7B) fixed;
 }
 
 .qrs{
@@ -14,7 +14,7 @@ body{
 
 .wrap{
 	margin: 1% 5% 0% 15%;
-	background-color: #707070;
+	background-color: #ffe6d7;
 	box-shadow: 2px 2px 5px #202020;
 
 }
