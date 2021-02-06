@@ -1,3 +1,13 @@
+body{
+	background-color: #3F3F3F;
+	margin: 1% 5% 0% 5%;
+}
+
+.wrap{
+	background-color: #707070;
+	box-shadow: 2px 2px 5px #202020;
+}
+
 .headqr{
-	width: 200px;
+	width: 100px;
 }
