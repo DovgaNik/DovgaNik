@@ -1,10 +1,30 @@
 body{
 	background-color: #3F3F3F;
-	margin: 1% 5% 0% 5%;
+}
+
+.qrs{
+	position: fixed;
+	width: 10%;
+}
+
+.imgqr{
+	width: 100%;
+	margin-bottom: 2%;
 }
 
 .wrap{
+	margin: 1% 5% 0% 15%;
 	background-color: #707070;
 	box-shadow: 2px 2px 5px #202020;
+
 }
 
+.header{
+	font-size: 60px;
+	font-family: Helvetica;
+	text-align: center;
+}
+
+.content{
+	padding: 2%;
+}
