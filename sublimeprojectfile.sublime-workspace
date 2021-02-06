@@ -1,0 +1,440 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"co",
+				"cover\tbackground-size"
+			],
+			[
+				"background",
+				"background-size\tproperty"
+			],
+			[
+				"backgroun",
+				"background-repeat\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2414,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "styles/style.css",
+			"settings":
+			{
+				"buffer_size": 131,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "scripts/main.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Website structure:\nbody\n\twrap\n\t\theader\n\t\t\tqrs\n\t\t\ttextheader\n\t\tcontent",
+			"settings":
+			{
+				"buffer_size": 69,
+				"line_ending": "Windows",
+				"name": "Website structure:"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"lore",
+				"LoremIpsum: (30) lots"
+			],
+			[
+				"pacckage Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 158.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/dovganik/Documents/NetBeansProjects/DovgaNik",
+		"/C/Users/dovganik/Documents/NetBeansProjects/DovgaNik/scripts",
+		"/C/Users/dovganik/Documents/NetBeansProjects/DovgaNik/styles"
+	],
+	"file_history":
+	[
+		"/C/portable/Sublime Text Build 3211 x64/Data/Packages/User/Preferences.sublime-settings",
+		"/C/portable/Sublime Text Build 3211 x64/Data/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/dovganik/Documents/NetBeansProjects/DovgaNik/scripts/main.js",
+		"/C/Users/dovganik/Documents/NetBeansProjects/DovgaNik/README.md",
+		"/C/Users/dovganik/Desktop/BOTHNIA, General Cargo Ship - Details and current position - IMO 9229087 MMSI 246896000 - VesselFinder.html",
+		"/C/Users/dovganik/Desktop/My Ship Tracking Free Realtime AIS Vessel Tracking Vessels Finder Map - ship tracker.html",
+		"/C/Users/dovganik/Desktop/personalPage/index.html",
+		"/C/Users/dovganik/Desktop/BOTHNIA (General Cargo) Registered in Netherlands - Vessel details, Current position and Voyage information - IMO 9229087, MMSI 246896000, Call Sign PHAC AIS Marine Traffic.html",
+		"/C/Users/dovganik/Desktop/personalPage/styles/style.css",
+		"/C/Users/dovganik/Desktop/personalPage/styles/layout.css",
+		"/C/Users/dovganik/Desktop/JGet.java",
+		"/C/Users/dovganik/Documents/NetBeansProjects/jPassManager/example.json",
+		"/C/Users/dovganik/Documents/NetBeansProjects/jPassManager/ini.ini",
+		"/D/New folder/New folder/hashcat-utils-1.9/bin/newfile",
+		"/C/Users/dovganik/Desktop/18576_1610531783.hccapx",
+		"/D/New folder/New folder/hashcat-6.1.1/hashcat",
+		"/D/New folder/New folder/hashcat-6.1.1/pass",
+		"/D/New folder/New folder/hashcat-6.1.1/wpa cracking/18576_1610531783.hccapx",
+		"/C/Users/dovganik/Documents/NetBeansProjects/JavaApplication27/passwd",
+		"/C/Users/dovganik/Documents/NetBeansProjects/jPassManager/dsadadadsada.pdb",
+		"/C/Users/dovganik/Desktop/1.pcapng",
+		"/C/Users/dovganik/Desktop/hashcat-utils-1.9/bin/pass",
+		"/C/Users/dovganik/Desktop/hashcat-utils-1.9/bin/newfile",
+		"/C/Users/dovganik/Desktop/hashcat-utils-1.9/newfile",
+		"/C/Users/dovganik/Documents/NetBeansProjects/JavaApplication27/passwd1",
+		"/C/Users/dovganik/Documents/NetBeansProjects/JavaApplication26/filename.txt",
+		"/C/Users/dovganik/Documents/NetBeansProjects/1/shell_plugins/crypto.sh",
+		"/C/Users/dovganik/Documents/NetBeansProjects/1/shell_plugins/crypto&coronaJavaWrapper/dist/output",
+		"/C/Users/dovganik/Documents/NetBeansProjects/jPassManager/123.pdb",
+		"/C/Users/dovganik/Documents/NetBeansProjects/jPassManager/src/ui/Frame.java",
+		"/C/Users/dovganik/Documents/NetBeansProjects/jPassManager/info.pdb",
+		"/C/Users/dovganik/Documents/NetBeansProjects/1/shell_plugins/covid.sh",
+		"/C/Users/dovganik/Documents/NetBeansProjects/jPassManager/info",
+		"/C/Users/dovganik/Desktop/New Text Document.txt",
+		"/C/Users/dovganik/Downloads/YoutubeDownloader.java",
+		"/C/Users/dovganik/Desktop/(2) Ил-96 - широкофюзеляжный дальнемагистральный лайнер - YouTube.html",
+		"/C/Users/dovganik/Desktop/get_video_info",
+		"/C/portable/netbeans/etc/netbeans.conf",
+		"/C/Users/dovganik/Desktop/copier/emailDataBaseRussia.txt",
+		"/C/Users/dovganik/Desktop/copier/src/copier/Class.java",
+		"/C/Users/dovganik/Desktop/index.html",
+		"/C/Users/dovganik/Desktop/emailDataBaseRussia.txt",
+		"/C/Users/dovganik/Desktop/copier/src/copier/file.java",
+		"/C/Users/dovganik/Desktop/1",
+		"/C/Users/dovganik/Desktop/miner/example.conf",
+		"/C/Users/dovganik/Desktop/bfgminer.conf",
+		"/C/Users/dovganik/Desktop/db2.txt",
+		"/C/Users/dovganik/Desktop/db",
+		"/C/Users/dovganik/Desktop/bfgminer-5.5.0-win32/miner.php",
+		"/C/Users/dovganik/Desktop/bfgminer-5.5.0-win32/bfgminer.conf",
+		"/C/Users/dovganik/Desktop/hello.java",
+		"/C/Program Files (x86)/Microsoft Games/Microsoft Flight Simulator X/cameras.cfg",
+		"/C/Users/dovganik/Desktop/Як відшукати свій шлях у житті",
+		"/C/Users/dovganik/.ssh/known_hosts",
+		"/C/Users/dovganik/Desktop/java.java",
+		"/C/Users/dovganik/Desktop/research/site/Специализированная общеобразовательная школа №1 им. А. В. Суворова г. Измаила_files/a.html",
+		"/C/Users/dovganik/Desktop/research/site/Специализированная общеобразовательная школа №1 им. А. В. Суворова г. Измаила.html",
+		"/C/Users/dovganik/Desktop/research/site/xploit.php",
+		"/C/Users/dovganik/тз",
+		"/C/Users/dovganik/цитаты",
+		"/C/Users/dovganik/Desktop/timeToSummer/js/count.js",
+		"/C/Users/dovganik/Desktop/timeToSummer/js/time.js",
+		"/C/Users/dovganik/Desktop/timeToSummer/css/bootstrap.css",
+		"/C/Users/dovganik/Desktop/timeToSummer/css/style.css",
+		"/C/Users/dovganik/Desktop/timeToSummer/index.html",
+		"/C/Users/dovganik/Desktop/startPage/script/main.js",
+		"/C/Users/dovganik/Desktop/startPage/style/style.css",
+		"/C/Users/dovganik/Desktop/startPage/index.html",
+		"/C/Users/dovganik/Desktop/startPage/style/bootstrap.css"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2414,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								765,
+								765
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "styles/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 131,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "scripts/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 69,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								69,
+								69
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Website structure:",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.813973548016,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sublimeprojectfile.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 181.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
